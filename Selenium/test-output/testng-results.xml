@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-19T12:22:22 IST" name="Default suite" finished-at="2022-11-19T12:22:37 IST" duration-ms="14845">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T12:22:22 IST" name="Default test" finished-at="2022-11-19T12:22:37 IST" duration-ms="14845">
+      <class name="SeleniumBasics.AutoIT">
+        <test-method is-config="true" signature="open()[pri:0, instance:SeleniumBasics.AutoIT@7ce3cb8e]" started-at="2022-11-19T12:22:22 IST" name="open" finished-at="2022-11-19T12:22:30 IST" duration-ms="7274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="operation()[pri:0, instance:SeleniumBasics.AutoIT@7ce3cb8e]" started-at="2022-11-19T12:22:30 IST" name="operation" finished-at="2022-11-19T12:22:37 IST" duration-ms="7502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+      </class> <!-- SeleniumBasics.AutoIT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
